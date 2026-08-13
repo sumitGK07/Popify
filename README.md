@@ -1,7 +1,7 @@
 
 # Popify 🎧
 
-A Spotify-style music player website — dark UI, sidebar navigation, playlist
+A music player website — dark UI, sidebar navigation, playlist
 grids, a full now-playing bar (play/pause, next/prev, shuffle, repeat, seek,
 volume, like), and live search.
 
